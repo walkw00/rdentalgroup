@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0" />
+    <title>R Dental Group</title>
+
+    <!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
+</head>
+
+<body>
+    <nav class="blue darken-4 valign-wrapper" role="navigation">
+        <div class="valign container"><a id="logo-container valign " href="" class="brand-logo">
+            <svg xmlns="http://www.w3.org/2000/svg" class="valign arabic-logo" viewBox="0 0 373.8 56">
+    <title>arabic-logo</title>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <path d="M1,52.9q0-2.4-.1-4.4T.5,44.8L.1,41.7A26.2,26.2,0,0,1,0,39a6.7,6.7,0,0,1,.5-2,31.7,31.7,0,0,1,1.3-3A5.3,5.3,0,0,1,4,33.3l4.4-.7,4-.3L11,30.7,9.9,29.2,8.8,28.1a1.9,1.9,0,0,0-1.2-.4,3.1,3.1,0,0,0-1.9.7,10.4,10.4,0,0,0-2,2.2L2,29.7a16.1,16.1,0,0,1,3-5.1,4.8,4.8,0,0,1,3.4-1.9,3.1,3.1,0,0,1,2,.8,12.3,12.3,0,0,1,2.2,2.5,37.1,37.1,0,0,0,2.6,3.4,13.2,13.2,0,0,0,2.5,2.2l-1.9,5a61.1,61.1,0,0,0-7.1.4,37.7,37.7,0,0,0-5.9,1.1q.6,3.2,1.9,9.3l.6,2.9A17.8,17.8,0,0,1,1,52.9Z" style="fill:#fff" />
+            <path d="M27.8,25.4H26.3l-1.2.4L23,27.1a3.3,3.3,0,0,1-.7-1.1,3.9,3.9,0,0,1-.3-1.4,3.5,3.5,0,0,1,1.5-3.1,7,7,0,0,1,4.1-1.1,12.9,12.9,0,0,1,2.9.3l3.9,1.2,3.9,1.2a16.1,16.1,0,0,0,3.5.4h3.8l-1.7,4.8h-5a22.5,22.5,0,0,0-6.4,2.3,16.1,16.1,0,0,0-4.9,3.9A7.1,7.1,0,0,0,25.7,39a5.6,5.6,0,0,0,2.6,4.9A11.5,11.5,0,0,0,35,45.6l4.5-.3,5.7-1.1.6,1.8a58.9,58.9,0,0,1-6.3,3.1,13.5,13.5,0,0,1-4.5,1.3q-5.6,0-8.5-2.8t-2.9-8.3A12.7,12.7,0,0,1,26,32.1a16.8,16.8,0,0,1,6.4-5.4l-2.5-.8A6.9,6.9,0,0,0,27.8,25.4ZM38.3,39a24,24,0,0,1-3.5,4A34.8,34.8,0,0,1,31,39.4l3.8-4A44.4,44.4,0,0,0,38.3,39Z" style="fill:#fff" />
+            <path d="M50,52.9q0-2.4-.1-4.4t-.3-3.7l-.3-3.1A26.2,26.2,0,0,1,49,39a6.7,6.7,0,0,1,.5-2,31.7,31.7,0,0,1,1.3-3,5.3,5.3,0,0,1,2.2-.7l4.4-.7,4-.3-1.3-1.6-1.2-1.5-1.1-1.1a1.9,1.9,0,0,0-1.2-.4,3.1,3.1,0,0,0-1.9.7,10.4,10.4,0,0,0-2,2.2L51,29.7a16.1,16.1,0,0,1,3-5.1,4.8,4.8,0,0,1,3.4-1.9,3.1,3.1,0,0,1,2,.8,12.3,12.3,0,0,1,2.2,2.5,37.1,37.1,0,0,0,2.6,3.4,13.2,13.2,0,0,0,2.5,2.2l-1.9,5a61.1,61.1,0,0,0-7.1.4,37.7,37.7,0,0,0-5.9,1.1q.6,3.2,1.9,9.3l.6,2.9A17.8,17.8,0,0,1,50,52.9Z" style="fill:#fff" />
+            <path d="M87,35.2a13.2,13.2,0,0,1-1.4,6,11.2,11.2,0,0,1-3.9,4.4,9.4,9.4,0,0,1-5.3,1.6,6.6,6.6,0,0,1-2.7-1.1,22.2,22.2,0,0,1-3.4-2.4L71,42a18.7,18.7,0,0,0,4.6.6A10.1,10.1,0,0,0,81.4,41a8.3,8.3,0,0,0,3.4-4.4v-.3a10.7,10.7,0,0,1-2.8,2.1,6.3,6.3,0,0,1-2.7.7,5.4,5.4,0,0,1-4.1-1.5,6,6,0,0,1-1.5-4.3,12.8,12.8,0,0,1,.9-4.6,9.8,9.8,0,0,1,2.3-3.6,4.4,4.4,0,0,1,3-1.4,4.7,4.7,0,0,1,3.4,1.6,12.7,12.7,0,0,1,2.7,4.5A15.9,15.9,0,0,1,87,35.2Zm-7-.9a12.2,12.2,0,0,0,4-.8,10.5,10.5,0,0,0-2.2-3.7,3.8,3.8,0,0,0-2.7-1.3,3,3,0,0,0-2.3.9,3.1,3.1,0,0,0-.9,2.2A2.2,2.2,0,0,0,77,33.7,5.7,5.7,0,0,0,80,34.3Z" style="fill:#fff" />
+            <path d="M105.3,50.5q-5.6,0-8.5-2.8T94,39.4a12.9,12.9,0,0,1,3.8-9,8.9,8.9,0,0,1-3-1.4,7.1,7.1,0,0,1-2-2.3,5.2,5.2,0,0,1-.7-2.5,9.6,9.6,0,0,1,1.1-4.3,10.4,10.4,0,0,1,2.7-3.5,5.1,5.1,0,0,1,3.3-1.3q3,0,6.5,3.9l-.9,1.7a12.7,12.7,0,0,0-4.5-1,9.9,9.9,0,0,0-2.6.3,12.6,12.6,0,0,0-2.6,1.1,5.5,5.5,0,0,0,1.9,4,8.9,8.9,0,0,0,5,1.9,31.5,31.5,0,0,1,7.6-3.5,3.4,3.4,0,0,1,.5,2.1,3.2,3.2,0,0,1-.7,2.1,5.4,5.4,0,0,1-2.1,1.5,38.3,38.3,0,0,0-6.6,3.4,12.5,12.5,0,0,0-3.3,3.2A5.7,5.7,0,0,0,96.1,39a5.6,5.6,0,0,0,2.6,4.9,11.6,11.6,0,0,0,6.7,1.8l4.6-.3,5.6-1,.6,1.8a54.1,54.1,0,0,1-6.1,3A14.1,14.1,0,0,1,105.3,50.5Z" style="fill:#fff" />
+            <path d="M124.5,14.5a21.6,21.6,0,0,1-3.2,3.7,26.5,26.5,0,0,1-3.6-3.3l1.9-1.9,1.7-1.8Zm-4.2,18.8q0-3.6,3.8-7.4h-.2a2.5,2.5,0,0,1-.9-2.2,4,4,0,0,1,.4-1.6,2.3,2.3,0,0,1,.9-1.1,13.2,13.2,0,0,1,4.4,2.5,13.9,13.9,0,0,1,3.3,3.9,8.3,8.3,0,0,1,1.2,4.1,7.8,7.8,0,0,1-.5,2.3,15.3,15.3,0,0,1-1.2,2.7,5.1,5.1,0,0,1-1.3,1.6,6.8,6.8,0,0,1-2,.9,9.1,9.1,0,0,1-2.4.3,5.3,5.3,0,0,1-4-1.6A5.6,5.6,0,0,1,120.3,33.3Zm10.2.1a12,12,0,0,0-1.7-3.4,14.7,14.7,0,0,0-2.9-2.9q-2.4,2.5-2.4,4.7a2.5,2.5,0,0,0,.8,2,3,3,0,0,0,2,.7A7.7,7.7,0,0,0,130.5,33.3Zm1-19.7a22,22,0,0,1-3.2,3.7,25.2,25.2,0,0,1-3.6-3.3,49.8,49.8,0,0,0,3.5-3.7Z" style="fill:#fff" />
+            <path d="M152.8,16.5v8l-.2,13.7-2.7.4q-.2-4.2-.8-10.4L148,13.8a3.2,3.2,0,0,1,.6-1.9,3.9,3.9,0,0,1,1.7-1.3,5.7,5.7,0,0,1,2.3-.5q.7,2.7,1.7,5.2Z" style="fill:#fff" />
+            <path d="M177.8,41.7l-1-5.3-1.1-6.3-.8-5-1.6-9.8v-.8a4,4,0,0,1,1.3-3,4.6,4.6,0,0,1,3.2-1.3l.8,2.8.9,2.5-1.3,1q.5,6.8,1.3,13.2l.6,5.8q.3,2.6.3,4.8a8.9,8.9,0,0,1-1.7,5.2,11.4,11.4,0,0,1-4.6,3.8,15,15,0,0,1-6.4,1.4,7.4,7.4,0,0,1-5.8-2.2q-2-2.2-2-6.5a25.7,25.7,0,0,1,1-6.1l1.9.5a12.1,12.1,0,0,0-.6,3.4,6.5,6.5,0,0,0,1.4,4.5,5.4,5.4,0,0,0,4.2,1.5,16.5,16.5,0,0,0,5.8-.9A13.6,13.6,0,0,0,177.8,41.7Z" style="fill:#fff" />
+            <path d="M189.5,6.6h0q0-.5-.7-.5A2,2,0,0,0,187,7.3a3.5,3.5,0,0,0,2.6,1l2.1-.2-.2,2.3-3.2.9L185,12.7V10.5l1.9-1.1q-1.7-.7-1.7-2a3.8,3.8,0,0,1,.6-1.9,5.3,5.3,0,0,1,1.5-1.7,2.9,2.9,0,0,1,1.6-.6q2,0,2,2.4a3.2,3.2,0,0,1-.2,1.3ZM191,18.8v3.7l-.2,15.7-2.7.4q-.9-14.3-1.2-17.5t-.5-5a3.2,3.2,0,0,1,1.3-2.6,4.9,4.9,0,0,1,3.1-1q.7,2.7,1.7,5.2Z" style="fill:#fff" />
+            <path d="M235.8,39a25.8,25.8,0,0,1-10.1-2.2l-.5,1q-.3.5-1.9.8a19.1,19.1,0,0,1-3.7.3h-1.5v1.2a8.9,8.9,0,0,1-1.7,5.2,11.4,11.4,0,0,1-4.6,3.8,15,15,0,0,1-6.4,1.4,7.4,7.4,0,0,1-5.8-2.2q-2-2.2-2-6.5a25.7,25.7,0,0,1,1-6.1l1.9.5a12.1,12.1,0,0,0-.6,3.4,6.5,6.5,0,0,0,1.4,4.5,5.4,5.4,0,0,0,4.2,1.5,16.5,16.5,0,0,0,5.8-.9,13.6,13.6,0,0,0,4.4-2.8l-1.2-2.4-1.2-2.2-.9-1.8a3.7,3.7,0,0,1-.3-1.4q0-3.6,4.3-5.6.2,1.9.9,5.3l2.7.2h1.6l1.5-.4a32.4,32.4,0,0,0,1.8-4.3,8.4,8.4,0,0,1,.8-1.9l.7-.5,1-.2a3.3,3.3,0,0,1,1.6.4q-.5,1.2-1.8,5.4a14.9,14.9,0,0,0,3.6,1.2l4.3.7L233.9,32l-1-2-.7-1.7a3.8,3.8,0,0,1-.3-1.3,3.6,3.6,0,0,1,1.2-2.3,8.9,8.9,0,0,1,2.7-2l.5,2.8q.7,3.5,1,5.1a15.3,15.3,0,0,1,.3,2.3,10.9,10.9,0,0,1-.6,2.9A20.1,20.1,0,0,1,235.8,39Z" style="fill:#fff" />
+            <path d="M250.3,50.5a7.4,7.4,0,0,1-5.8-2.2q-2-2.2-2-6.5a25.7,25.7,0,0,1,1-6.1l1.9.5a12.1,12.1,0,0,0-.6,3.4,6.5,6.5,0,0,0,1.4,4.5,5.4,5.4,0,0,0,4.2,1.5,16.5,16.5,0,0,0,5.8-.9,13.6,13.6,0,0,0,4.4-2.8l-1.2-2.4-1.2-2.2-.9-1.8a3.7,3.7,0,0,1-.3-1.4q0-3.6,4.3-5.6.2,1.5.5,3.1l.5,3.1q.3,1.5.4,3a20.1,20.1,0,0,1,.2,2.6,8.9,8.9,0,0,1-1.7,5.2,11.4,11.4,0,0,1-4.6,3.8A15,15,0,0,1,250.3,50.5Zm4.5-22a24,24,0,0,1-3.5,4,34.8,34.8,0,0,1-3.8-3.6l3.8-4A44.4,44.4,0,0,0,254.9,28.5Z" style="fill:#fff" />
+            <path d="M273.3,16.5v8l-.2,13.7-2.7.4q-.2-4.2-.8-10.4l-1.1-14.4a3.2,3.2,0,0,1,.6-1.9,3.9,3.9,0,0,1,1.7-1.3,5.7,5.7,0,0,1,2.3-.5q.7,2.7,1.7,5.2Z" style="fill:#fff" />
+            <path d="M287.9,50.5a7.4,7.4,0,0,1-5.8-2.2q-2-2.2-2-6.5a25.7,25.7,0,0,1,1-6.1l1.9.5a12.1,12.1,0,0,0-.6,3.4,6.5,6.5,0,0,0,1.4,4.5,5.4,5.4,0,0,0,4.2,1.5,16.5,16.5,0,0,0,5.8-.9,13.6,13.6,0,0,0,4.4-2.8l-1.2-2.4-1.2-2.2-.9-1.8a3.7,3.7,0,0,1-.3-1.4q0-3.6,4.3-5.6.2,1.5.5,3.1l.5,3.1q.3,1.5.4,3a20.1,20.1,0,0,1,.2,2.6,8.9,8.9,0,0,1-1.7,5.2,11.4,11.4,0,0,1-4.6,3.8A15,15,0,0,1,287.9,50.5Zm4.5-22a24,24,0,0,1-3.5,4,34.8,34.8,0,0,1-3.8-3.6l3.8-4A44.4,44.4,0,0,0,292.4,28.5Z" style="fill:#fff" />
+            <path d="M350.2,24.9l3.2.2a22.1,22.1,0,0,0,5.2-.6,28.2,28.2,0,0,0,4.7-1.7c-2-2-3.8-3-5.5-3S354.1,20.7,350.2,24.9Z" style="fill:#f4ba70" />
+            <path d="M373.8,9.9A9.9,9.9,0,0,0,363.9,0H327.8a9.9,9.9,0,0,0-9.9,9.9V46.1a9.9,9.9,0,0,0,9.9,9.9h36.1a9.9,9.9,0,0,0,9.9-9.9Zm-7.4,16.7a12.9,12.9,0,0,1-5.7,3.7,22.5,22.5,0,0,1-7.7,1.3l-4.2-.3L346,31c0,.3,0,.6,0,.9a9.9,9.9,0,0,1-1.9,5.8,12.4,12.4,0,0,1-5,4.1,16.1,16.1,0,0,1-6.9,1.5,8.3,8.3,0,0,1-6.5-2.6c-1.5-1.7-2.2-4.1-2.2-7.1a26.4,26.4,0,0,1,1.1-6.4l.3-.9,3.9.9-.3,1a11.2,11.2,0,0,0-.5,3.1,5.6,5.6,0,0,0,1.1,3.8,4.5,4.5,0,0,0,3.4,1.1,15.6,15.6,0,0,0,5.5-.8,12.4,12.4,0,0,0,3.6-2.2l-.9-1.7-1.2-2.2-.9-1.9a4.6,4.6,0,0,1-.4-1.8c0-2.8,1.6-5,4.9-6.5l1.2-.6.2,1.4c.1,1,.3,2.3.6,3.8h0a50.1,50.1,0,0,1,7.5-8.1c2.4-2,4.5-2.9,6.4-2.9a7.7,7.7,0,0,1,4,1.4,15.9,15.9,0,0,1,3.8,3.3,6.1,6.1,0,0,1,1.8,3.7A8.4,8.4,0,0,1,366.5,26.7Z" style="fill:#f4ba70" />
+        </g>
+    </g>
+</svg>
+        </a>
+            <ul class="valign">
+               <li><a href="#">Call Us 310-271-1337</a></li>
+                <li><a><i class="material-icons prefix">phone</i></a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="section no-pad-bot valign-wrapper" id="offer-banner">
+        <div class="container valign">
+            <div class="row">
+                <div class="col s12">
+                    <h2 class="medium center blue-text text-darken-4">Always Smile With Confidence</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col s12">
+                    <h4 class="header center blue-text">Free Exam &amp; X-rays for new patients</h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col s12 center">
+                    <a href="http://materializecss.com/getting-started.html" id="download-button" class="btn-large waves-effect waves-light amber darken-2">Yes, I Want to schedule my free exam!</a>
+                </div>
+
+            </div>
+            <br>
+            <br>
+        </div>
+    </div>
+    <div class="section no-pad amber lighten-2" id="index-banner">
+        <div class="container row">
+            <br>
+            <br>
+            <div class="col s2">
+                <img src="/images/testimonial-pic.png" alt="testimonial" class="circle responsive-img">
+                <!-- notice the "circle" class -->
+            </div>
+            <div class="col s10">
+                <h5 class="test-header white-text">Dr&#46; Rashad Riman did an amazing job that left my tooth looking perfect&#46; It was almost impossible to see where any work had been done&#46;</h5></div>
+            <div class="row">
+                <div class="col s8">
+                    <h5 class="right-align no-margin Medium amber-text text-lighten-4">&#45; Kabir K&#46;</h5>
+                </div>
+                <div class="col s2 left">
+                    <h5 class="no-margin quote"><i class="material-icons amber-text">&#xE244;</i></h5></div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <div class="section no-pad-bot">
+
+            <!--   Icon Section   -->
+            <div class="row">
+                <h3 class="col s12 medium blue-text no-margin">About Our Clinic</h3>
+            </div>
+            <div class="row">
+                <div class="col s12 m4">
+                    <div class="card-panel about-clinic-card"></div>
+                </div>
+                <div class="col s12 m4">
+                    <div class="about-clinic card-panel">
+                        <p class="medium">We offer a vast array of cosmetic dentistry services ranging from tooth whitening and cleanings, veneers, dental implants and much more. Our highly trained staff is experienced in using the latest in dental technology to ensure that you receive the best dental care possible.</p>
+                    </div>
+                </div>
+                <div class="col s12 m4">
+                    <div class="about-clinic card-panel">
+                        <h5>Our Services</h5>
+                        <ul class="services-list">
+                            <li><i class="material-icons text-darken-4 amber-text">check_box</i>Cosmetic Dentistry</li>
+                            <li><i class="material-icons text-darken-4 amber-text">check_box</i>Porcelain Veneers</li>
+                            <li><i class="material-icons text-darken-4 amber-text">check_box</i>Dental Implants</li>
+                            <li><i class="material-icons text-darken-4 amber-text">check_box</i>Gum Depigmentation</li>
+                            <li><i class="material-icons text-darken-4 amber-text">check_box</i>Teeth Whitening</li>
+                            <li><i class="material-icons text-darken-4 amber-text">check_box</i>Orthodonics</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+        <br>
+    </div>
+    <div class="blue">
+        <div class="container section">
+            <div class="row">
+                <div class="col s12">
+                    <h3 class="white-text">Meet the Docs</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col s12 m4">
+                    <div class="card">
+                        <div class="card-image">
+                            <div class="meet-img-3 meet-img">
+                            </div>
+                        </div>
+                        <div class="card-content">
+                            <span class="card-title activator grey-text text-darken-4">Leedia Riman<i class="material-icons right amber-text">info_outline</i></span>
+                        </div>
+                        <div class="card-reveal">
+                            <span class="card-title grey-text text-darken-4">Dr. Leedia Riman<i class="material-icons right">close</i></span>
+                            <p>Dr. Leedia practices all phases of dentistry, and focuses on cosmetic dentistry. Her passion for helping the geriatric population lead her to set up the “Adopt a Grandma/Pa” program in which she focuses on the oral health care of senior citizens in the community.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col s12 m4">
+                    <div class="card">
+                        <div class="card-image">
+                            <div class="meet-img-4 meet-img">
+                            </div>
+                        </div>
+                        <div class="card-content">
+                            <span class="card-title activator grey-text text-darken-4">Rawad Riman<i class="material-icons right amber-text">info_outline</i></span>
+                        </div>
+                        <div class="card-reveal">
+                            <span class="card-title grey-text text-darken-4">Dr. Rawad Riman<i class="material-icons right">close</i></span>
+                            <p>Dr. Rawad Riman is a general dentist and the founder of R Dental Group in Beverly Hills, California. His patients love him because of his transparency, professionalism, and thoroughness when delivering dental care.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col s12 m4">
+                    <div class="card">
+                        <div class="card-image">
+                            <div class="meet-img-2 meet-img">
+                            </div>
+
+                        </div>
+                        <div class="card-content">
+                            <span class="card-title activator grey-text text-darken-4">Rawad Riman<i class="material-icons right amber-text">info_outline</i></span>
+                        </div>
+                        <div class="card-reveal">
+                            <span class="card-title grey-text text-darken-4">Dr. Rawad Riman<i class="material-icons right">close</i></span>
+                            <p>Dr. Riman is a dentist, inventor, and artist all in one; a true new age Renaissance man. His humanistic and holistic approach to cosmetic dental treatment makes him very appealing to patients who value both excellence and transparency in their relationship with their dentist.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <div class="container section">
+            <div class="row">
+                <div class="card model-image col s6">
+
+                </div>
+                <div class="col s6">
+                    <h4 class="blue-text medium">We'll giv many reasons to smile</h4>
+                    <p class="flow-text">At R Dental Group, we are proud to offer our dental services to the greater bilingual, Arabic speaking community in Los Angeles and surrounding areas. All of our doctors are fluent in Arabic and are mindful your unique dental circumstances.</p>
+                </div>
+                <div class="col s12 center">
+                    <a href="http://materializecss.com/getting-started.html" id="download-button" class="btn-large waves-effect waves-light amber darken-2">Claim your free exam now!</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="googleMap" class="no-margin no-padding" style="width: 100%;height:380px;"></div>
+    <footer class="page-footer amber no-margin">
+        <div class="container">
+            <div class="row">
+                <div class="col l6 s12">
+                    <h5 class="white-text">Beverly Hills Cosmetic Dental</h5>
+                    <p class="grey-text text-lighten-4">Our highly trained staff is experienced in using the latest in dental technology to ensure that you receive the best dental care possible. Our focus is to make sure that you achieve the best and healthiest results, with the least amount of discomfort and recovery time as possible.</p>
+
+
+                </div>
+                <div class="col l3 s12">
+                    <h5 class="white-text">More</h5>
+                    <ul>
+                        <li><a class="white-text" href="#!">Reviews</a></li>
+                        <li><a class="white-text" href="#!">Privacy</a></li>
+                        <li><a class="white-text" href="#!">Terms</a></li>
+                    </ul>
+                </div>
+                <div class="col l3 s12">
+                    <h5 class="white-text">Connect</h5>
+                    <ul>
+                        <li><a class="white-text" href="https://www.instagram.com/rdentalgroup/">Instagram</a></li>
+                        <li><a class="white-text" href="https://twitter.com/rimandental">Twitter</a></li>
+                        <li><a class="white-text" href="https://www.facebook.com/R-Dental-Group-756651601041989/">Facebook</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="container">
+                © 2011 <a class="amber-text text-lighten-3" href="http://materializecss.com">R Dental Group</a>
+            </div>
+        </div>
+    </footer>
+
+    <!--  Scripts-->
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="js/materialize.js"></script>
+    <script src="js/init.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?language=ar">
+    </script>
+    <script>
+        function initialize() {
+            var rdlocation = new google.maps.LatLng(34.0672657, -118.40741909999997);
+            var mapProp = {
+                center: rdlocation,
+                zoom: 12,
+                scrollwheel: false,
+                navigationControl: false,
+                mapTypeControl: false,
+                scaleControl: false,
+                draggable: false,
+                mapTypeId: google.maps.MapTypeId.ROADMAP,
+                styles: [
+                    {
+                        "featureType": "water",
+                        "elementType": "geometry",
+                        "stylers": [
+                            {
+                                "color": "#e9e9e9"
+            },
+                            {
+                                "lightness": 17
+            }
+        ]
+    },
+                    {
+                        "featureType": "landscape",
+                        "elementType": "geometry",
+                        "stylers": [
+                            {
+                                "color": "#f5f5f5"
+            },
+                            {
+                                "lightness": 20
+            }
+        ]
+    },
+                    {
+                        "featureType": "road.highway",
+                        "elementType": "geometry.fill",
+                        "stylers": [
+                            {
+                                "color": "#ffffff"
+            },
+                            {
+                                "lightness": 17
+            }
+        ]
+    },
+                    {
+                        "featureType": "road.highway",
+                        "elementType": "geometry.stroke",
+                        "stylers": [
+                            {
+                                "color": "#ffffff"
+            },
+                            {
+                                "lightness": 29
+            },
+                            {
+                                "weight": 0.2
+            }
+        ]
+    },
+                    {
+                        "featureType": "road.arterial",
+                        "elementType": "geometry",
+                        "stylers": [
+                            {
+                                "color": "#ffffff"
+            },
+                            {
+                                "lightness": 18
+            }
+        ]
+    },
+                    {
+                        "featureType": "road.local",
+                        "elementType": "geometry",
+                        "stylers": [
+                            {
+                                "color": "#ffffff"
+            },
+                            {
+                                "lightness": 16
+            }
+        ]
+    },
+                    {
+                        "featureType": "poi",
+                        "elementType": "geometry",
+                        "stylers": [
+                            {
+                                "color": "#f5f5f5"
+            },
+                            {
+                                "lightness": 21
+            }
+        ]
+    },
+                    {
+                        "featureType": "poi.park",
+                        "elementType": "geometry",
+                        "stylers": [
+                            {
+                                "color": "#dedede"
+            },
+                            {
+                                "lightness": 21
+            }
+        ]
+    },
+                    {
+                        "elementType": "labels.text.stroke",
+                        "stylers": [
+                            {
+                                "visibility": "on"
+            },
+                            {
+                                "color": "#ffffff"
+            },
+                            {
+                                "lightness": 16
+            }
+        ]
+    },
+                    {
+                        "elementType": "labels.text.fill",
+                        "stylers": [
+                            {
+                                "saturation": 36
+            },
+                            {
+                                "color": "#333333"
+            },
+                            {
+                                "lightness": 40
+            }
+        ]
+    },
+                    {
+                        "elementType": "labels.icon",
+                        "stylers": [
+                            {
+                                "visibility": "off"
+            }
+        ]
+    },
+                    {
+                        "featureType": "transit",
+                        "elementType": "geometry",
+                        "stylers": [
+                            {
+                                "color": "#f2f2f2"
+            },
+                            {
+                                "lightness": 19
+            }
+        ]
+    },
+                    {
+                        "featureType": "administrative",
+                        "elementType": "geometry.fill",
+                        "stylers": [
+                            {
+                                "color": "#fefefe"
+            },
+                            {
+                                "lightness": 20
+            }
+        ]
+    },
+                    {
+                        "featureType": "administrative",
+                        "elementType": "geometry.stroke",
+                        "stylers": [
+                            {
+                                "color": "#fefefe"
+            },
+                            {
+                                "lightness": 17
+            },
+                            {
+                                "weight": 1.2
+            }
+        ]
+    }
+]
+            };
+            var marker = new google.maps.Marker({
+                position: rdlocation,
+                title: "R Dental Group"
+            });
+            var infowindow = new google.maps.InfoWindow({
+                content: "R Dental Group<br>9735 Wilshire Blvd, Suite 325<br> Beverly Hills, CA 90210"
+            });
+            var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
+            marker.setMap(map);
+            infowindow.open(map, marker)
+        };
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+
+</body>
+
+</html>
