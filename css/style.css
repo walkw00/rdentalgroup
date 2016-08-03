@@ -50,11 +50,11 @@
 
 
 .about-clinic {
-    height: 300px;
+    height: 350px;
 }
 
 .about-clinic-card {
-    height: 300px;
+    height: 350px;
     background-image: url("/rdentalgroup/images/clinic-tools.png");
     background-size: cover;
     
@@ -64,7 +64,9 @@
     margin-left: 10px;
     margin-right: 10px;
 }
-
+ul.services-list li > i {
+    padding: 2.5px;
+}
 
 
 
@@ -95,7 +97,8 @@
 
 
 .test-header {
-        line-height: 1.2
+        line-height: 1.2;
+        width: 80%;
 }
 
 .model-image {
@@ -209,30 +212,10 @@ span.badge {
 .quote {
     line-height: 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-.logo-container {
-    height: 0;
-    position: relative;
+.nav-logo {
+    width: 240px;
+    margin: 10px;
 }
-
-.arabian-logo {
-    position: absolute;
-    transform: translateY(-50%);
-    max-height: 50px;
-}
-
 .exit {
     position: absolute;
     margin: 5px;
@@ -242,16 +225,40 @@ span.badge {
     font-size: 2.2rem;
     padding: 10px;
 }
-
+.test-header {
+        width: 90%;
+}
 .no-line {
     line-height: 1;
 }
-@media only screen and (max-width: 500px) {
+.nav-phone {
+    padding: 0px 2px 0px 10px;
+}
+@media only screen and (max-width: 600px) {
   #index-banner div div {
     text-align: center;
   }
+    .modal {
+        width: 95% !important;
+        max-height: 90% !important;
+        top: 10% !important;
+    }
+  
+    .test-header {
+        width: 100%;
 }
-@media only screen and (min-width: 996px) {
+    .nav-logo {
+    width: 150px;
+    margin: 13px;
+}
+}
+@media only screen and (min-width: 601px) and (max-width: 992px) {
+    .nav-logo {
+    width: 10em;
+    margin: 0.2em;
+}
+}
+@media only screen and (min-width: 993px) {
   .video-align {
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -260,4 +267,10 @@ span.badge {
       -ms-flex-align: center;
           align-items: center;
 }
+    .test-header {
+        width: 90%;
+}
+    .container {
+        width: 85% !important;
+    }
 }
